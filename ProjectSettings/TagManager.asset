@@ -12,6 +12,7 @@ TagManager:
   - rotateZ
   - cameraRotate
   - cameraZoom
+  - DockerManager
   layers:
   - Default
   - TransparentFX
